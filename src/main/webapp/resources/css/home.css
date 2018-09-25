@@ -1,0 +1,17 @@
+#form{
+	width: 500px;
+	padding: 20px;
+	font-size: 24px;
+	color: white;
+	position: fixed;
+	top: 300px;
+	left: 40px;
+	margin: auto;
+	text-align: center;
+	border:2px solid blue;
+	border-radius: 30px;
+}
+body{
+	background-image: url(homebg.jpeg);
+	background-repeat: repeat;
+}
